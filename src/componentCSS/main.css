@@ -1,0 +1,60 @@
+.main {
+    text-align: center;
+}
+
+/* Basic styling for the auction card */
+.auction-card {
+    border: 2px solid #ddd;
+    border-radius: 8px;
+    padding: 16px;
+    margin-bottom: 20px;
+    width: 80%;
+    margin: 20px auto; /* Center the card and add spacing */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+  }
+  
+  .auction-card:hover {
+    transform: scale(1.05);
+  }
+  
+  .property-image {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 10px;
+  }
+  
+  .auction-details {
+    text-align: center;
+  }
+  
+  .auction-card h3 {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+  }
+  
+  .auction-card p {
+    font-size: 1rem;
+    color: #555;
+  }
+  
+  .auction-card.live {
+    border-color: #28a745;
+  }
+  
+  .auction-section,
+  .upcoming-auctions {
+    margin: 40px 0;
+  }
+  
+  .auction-list {
+    display: grid;
+    justify-self: center;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 20px;
+  }
+  
