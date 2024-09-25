@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/fowler/static/css/main.0d05c471.css",
+    "main.js": "/fowler/static/js/main.c21b07cb.js",
+    "static/media/facebook-logo.png": "/fowler/static/media/facebook-logo.2113231d4fcb17b5f7e1.png",
+    "static/media/twitter-x-logo.png": "/fowler/static/media/twitter-x-logo.d74d7cef2155f5a3d688.png",
+    "static/media/youtube-logo.png": "/fowler/static/media/youtube-logo.262e6fdf5719900a07ee.png",
+    "static/media/dropdown.png": "/fowler/static/media/dropdown.9edfd30de83ab8492410.png",
+    "static/media/logo.png": "/fowler/static/media/logo.e0f1ad7603d70072dac0.png",
+    "static/media/login.png": "/fowler/static/media/login.35c7e1979df760064c9d.png",
+    "index.html": "/fowler/index.html",
+    "main.0d05c471.css.map": "/fowler/static/css/main.0d05c471.css.map",
+    "main.c21b07cb.js.map": "/fowler/static/js/main.c21b07cb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d05c471.css",
+    "static/js/main.c21b07cb.js"
+  ]
+}
